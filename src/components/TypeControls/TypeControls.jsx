@@ -3,7 +3,8 @@ import './TypeControls.css';
 
 const TYPES = [
   'Normal', 'Fighting', 'Flying', 'Poison', 'Ground', 'Rock', 'Bug', 'Ghost', 'Steel',
-  'Fire', 'Water', 'Grass', 'Electric', 'Psychic', 'Ice', 'Dragon', 'Dark', 'Fairy'
+  'Fire', 'Water', 'Grass', 'Electric', 'Psychic', 'Ice', 'Dragon', 'Dark', 'Fairy',
+  'Flying Press', 'Freeze-Dry'
 ];
 
 const TYPE_COLORS = [
@@ -24,6 +25,8 @@ const TYPE_COLORS = [
   {backgroundColor: '#98d8d8', border: '1px solid #638d8d'},
   {backgroundColor: '#7038f8', border: '1px solid #4924a1'},
   {backgroundColor: '#705848', border: '1px solid #49392f'},
+  {backgroundColor: '#ee99ac', border: '1px solid #9b6470'},
+  {backgroundColor: '#ee99ac', border: '1px solid #9b6470'},
   {backgroundColor: '#ee99ac', border: '1px solid #9b6470'},
 ];
 
